@@ -1,6 +1,6 @@
 ### Hello
 
-### Check out my <a href="https://www.garymak.netlify.app">portfolio</a>
+### Check out my <a href="https://garymak.vercel.app/">portfolio</a>
 ### Connect With Me <a href="https://www.linkedin.com/in/makgary/"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 
 ## My Tech Stack
